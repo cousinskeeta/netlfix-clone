@@ -17,5 +17,5 @@ It correctly bundles React in production mode and optimizes the build for the be
 Demo hosted using Firebase.
 
 ### Hosting URL: 
-https://netflix-clone-3fff9.web.app - automatic!
+https://netflix-clone-3fff9.web.app
 [FireBase](https://netflix-clone-3fff9.web.app)
